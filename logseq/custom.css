@@ -1,0 +1,13 @@
+.asset-overlay {
+    display: none;
+}
+
+/* Hide the address of image*/
+.asset-action-btn.text-left {
+    color: transparent;
+}
+
+.external-link::before {
+  content: "";
+  // margin-right: 4px;
+}
