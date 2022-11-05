@@ -106,3 +106,10 @@ file-path:: ../assets/books/如何利用图表在股市中获利_威廉·吉勒.
   id:: 636673e6-0e76-47d5-8e29-7e7912e2fe8a
   hl-type:: area
   hl-stamp:: 1667658721200
+- [:span]
+  ls-type:: annotation
+  hl-page:: 61
+  hl-color:: yellow
+  id:: 636691b7-b7d1-4cf2-9931-89f21a52d86d
+  hl-type:: area
+  hl-stamp:: 1667666356214
